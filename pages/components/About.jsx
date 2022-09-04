@@ -18,8 +18,6 @@ const About = () => {
               que resume esto es: “La sabiduría no es un producto de la educación sino del intento de adquirirla durante toda la vida.”
           </p> 
         </div>
-       
-        
       </div>
     </div>
    

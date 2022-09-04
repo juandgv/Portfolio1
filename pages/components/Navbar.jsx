@@ -57,11 +57,11 @@ const Navbar = () => {
     >
       <div className='flex justify-between items-center w-full h-full px-2 2xl:px-16'>
         <Link href='/'>
-          <a>
-            <Image
+          <a id='logo'>
+            <Image decoding='async'
               src={NavLogo}
               alt='/'
-              width='125'
+              width='100'
               height='50'
               className='cursor-pointer'
             />

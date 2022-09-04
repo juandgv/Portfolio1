@@ -11,7 +11,7 @@
     @apply font-bold 
   }
   h1 {
-    @apply text-4xl sm:text-5xl md:text-6xl
+    @apply text-5xl sm:text-2xl md:text-5xl
   }
 
   h2 {
@@ -55,8 +55,20 @@
   color: hsla(var(--s)/var(--tw-text-opacity));
 }
 .black-background{
-  @apply bg-[#18181b] text-[#ecf0f1] tracking-wide
+  @apply bg-[#18181b] text-[#ffffff] tracking-wide
 }
+
+#logo Image {
+  
+  transition: transform ease .3s;
+  -webkit-transition: transform ease .3s;
+  -moz-transition: transform ease .3s;
+  -ms-transition: transform ease .3s;
+  -o-transition: transform ease .3s;
+  height: 44px;
+  width: auto;
+}
+
 
 
 
