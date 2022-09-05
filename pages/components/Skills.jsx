@@ -18,7 +18,7 @@ const Skills = () => {
        <div>    
         <h2 className='py-4 header-skills text-5xl text-center w-max subpixel-antialised mx-auto'>Skills</h2>  
     <div className=' max-w-4xl p-10 mx-auto mt-20 bg-white rounded-lg border-2 border-black '>
-        <div className='flex flex-wrap gap-4 '>
+        <div className='flex flex-wrap gap-4'>
         <div className='flex flex-row items-center gap-2 px-8 py-3 border border-gray-300 rounded-3xl '>     
             <Image 
                 src={Html}
