@@ -4,7 +4,6 @@ import React, { useState, useEffect } from 'react';
 import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from 'react-icons/ai';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 
-// import { useRouter } from 'next/router';
 
 import NavLogo from '/public/assets/logo-negro.png'
 

@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import React, { useState } from 'react';
 import { HiOutlineChevronDoubleUp } from 'react-icons/hi';
 import Message from '/public/assets/skills/message.png';
 

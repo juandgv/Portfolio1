@@ -1,5 +1,3 @@
-import Image from 'next/image';
-import Link from 'next/link';
 import React from 'react';
 import MernImg from '/public/assets/projects/mern_app.jpg'
 
