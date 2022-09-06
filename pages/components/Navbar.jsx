@@ -6,7 +6,7 @@ import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 
 // import { useRouter } from 'next/router';
 
-import NavLogo from '/../Users/juand/OneDrive/Escritorio/my-portfolio/portfolio/public/assets/logo-negro.png'
+import NavLogo from '/public/assets/logo-negro.png'
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
